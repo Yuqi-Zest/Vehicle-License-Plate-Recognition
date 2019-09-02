@@ -4,6 +4,8 @@
 
 项目综述：https://github.com/Yuqi-Zest/Vehicle-License-Plate-Recognition/blob/master/%E9%A1%B9%E7%9B%AE%E7%BB%BC%E8%BF%B0.pdf
 
+详细学习文档：https://github.com/Yuqi-Zest/Vehicle-License-Plate-Recognition/blob/master/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E6%AD%A3%E6%96%87.pdf
+
 项目语言：C++11 项目平台：Microsoft Visual Studio 2015    计算机视觉库：Opencv 3.2+opencv-contrib V3.1 cmake3.8.1 源码编译
 SVM: Libsvm    ANN： Opencv    CNN: Caffe
 
