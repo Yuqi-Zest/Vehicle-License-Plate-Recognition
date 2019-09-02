@@ -7,3 +7,4 @@
 项目语言：C++11 项目平台：Microsoft Visual Studio 2015    计算机视觉库：Opencv 3.2+opencv-contrib V3.1 cmake3.8.1 源码编译
 SVM: Libsvm    ANN： Opencv    CNN: Caffe
 
+详细说明：
